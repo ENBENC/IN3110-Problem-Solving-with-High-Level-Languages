@@ -1,0 +1,4 @@
+Timing : python_color2gray
+(Total)Runtime running python_color2gray after 3 runs : 8.409269 s
+(Per run)Average runtime running python_color2gray after 3 runs :  2.803090 s
+Timing performed using : timeit

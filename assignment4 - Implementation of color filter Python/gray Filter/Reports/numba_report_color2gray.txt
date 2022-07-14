@@ -1,0 +1,18 @@
+Timing : numba_color2gray
+(Total)Runtime running numba_color2gray after 3 runs :0.515851
+(Per run)Average runtime running numba_color2gray after 3 runs :0.171950
+
+Average runtime for running numba_color2gray is 16.302 times faster than python_color2gray .py.
+
+Average runtime for running numba_color2gray is 9.044 times slower than numpy_color2gray .py
+
+Timing performed using : timeit
+
+Advantages of using numba, numba help the code to run faster. A pure python code as we saw in the tests is 
+slower than running with numba. If we have code that have many loops in it, then running with numba will give a better result
+than running a pure python code.
+
+Disadvantages in the numba vs numpy comparison, the numba is slower than the numpy. Numba is not always faster than numpy,
+and it can be slower. 
+I think it dependents on how the code is implemented, numbers of loops and data size. So when we have to choose whitch one we 
+want to use depend on what the code do and how it is implemented.
