@@ -2,10 +2,10 @@
 #### At the end fetch NBA player statistics in wikipedia and write result in a bar chart.
 
 ## Install python library:
-pip install requests
-pip install beautifulsoup4
-pip install regex
-pip install matplotlib
+  pip install requests
+  pip install beautifulsoup4
+  pip install regex
+  pip install matplotlib
 
 test.py includ simple test of function find_urls and test of regex to dmy,mdy,ymd,iso format.
 
