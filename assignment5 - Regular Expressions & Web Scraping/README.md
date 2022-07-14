@@ -1,5 +1,5 @@
-### A simple program that collect url from a wikipedia site, find date of html string. 
-## At the end fetch NBA player statistics in wikipedia and write result in a bar chart.
+#### A simple program that collect url from a wikipedia site, find date of html string. 
+#### At the end fetch NBA player statistics in wikipedia and write result in a bar chart.
 
 ## Install python library:
 pip install requests
